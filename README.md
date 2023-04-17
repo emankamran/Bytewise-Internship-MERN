@@ -1,7 +1,7 @@
 # Bytewise-Internship-MERN
 | Folder Name            | Deployed Website              |
 | ----------------------| -----------------------------|
-| Bytewise Task 1 HTML   |                              |
+| [Bytewise Task 1 HTML](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-01-HTML)   |                              |
 | Bytewise Task 2 CSS    |                              |
 | Bytewise-Task 3        | Website                      |
 | Bytewise Task 4 Flexbox|                              |
