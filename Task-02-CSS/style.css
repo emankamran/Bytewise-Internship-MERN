@@ -1,0 +1,162 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(238, 236, 234);
+  color: #555555;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.6em;
+}
+
+.container {
+  width: 500px;
+  margin: auto;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color:green
+}
+a:visited{
+   
+}
+.clr{
+    clear: both;
+}
+
+.box-1 {
+  background-color: #222;
+  color: #fff;
+  border: 5px red solid;
+  padding: 20px;
+  margin: 20px 0;
+}
+.box-1 h1 {
+  font-weight: 800;
+  font-style: italic;
+  font-family: Tahoma;
+  text-decoration: underline;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  word-spacing: 1em;
+}
+.box-2{
+    border: 3px dotted #ccc;
+    padding: 20px;
+    margin: 20px 0;
+}
+.categories{
+    border: 1px #ccc solid ;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.categories h2{
+text-align: center;
+}
+
+.categories ul{
+    padding: 0px 10px;
+    list-style: none;
+}
+
+
+.categories li{
+    padding-bottom: 6px;
+    border-bottom: dotted 1px #333;
+    list-style: url(./check.png);
+}
+.my-form{
+    padding: 20px;
+}
+.form-group{
+padding-bottom: 15px;
+}
+
+.my-form label{
+display: block;
+}
+.my-form input[type="text"], .my-form textarea{
+    padding: 8px;
+    width: 100px;
+}
+.button{
+    background-color: #555555;
+    color: #fff;
+    padding: 2px 15px;
+    border: none;
+}
+.button hover{
+    background-color: red;
+    color:#fff;
+}
+
+.block{
+    float: left;
+    width: 33.3%;
+    border:1px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box; 
+}
+#main-block{
+    float: left;
+    width:70%;
+}
+#sidebar{
+    float: right;
+    width:30%;
+    background-color: #333;
+    color: #fff;
+    padding: 15px;
+    box-sizing:border-box ;
+}
+
+.p-box{
+    width: 800px;
+    height: 500px;
+    border: 1px solid #000;
+    margin-top: 30px;
+    position: relative;
+    background-image: url(./images.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p-box h1{
+position:absolute;
+top:40px;
+left: 200px;
+}
+.p-box h2{
+position:  absolute;
+bottom: 40px;
+right: 100px;
+}
+.fix-me{
+    position: fixed;
+    top: 400px;
+ 
+}
+.my-list li:first-child{
+background-color: red;
+}
+.my-list li:first-child{
+    background-color: blue;
+}
+.my-list li:nth-child(5){
+    background-color: yellow;
+}
+.my-list li:nth-child(even){
+    background-color: grey;
+}
