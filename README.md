@@ -9,6 +9,6 @@
 | [Task 06 Tailwind](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-06-Tailwind)| Website                 |
 | [Task 07 JSFundamentals](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-07-JS-Fundamentals)|                |
 | [Task 08 Asynchronous JS](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-08-Asynchronous-JS)|               |
-| [Task 09 DOM Manipulation](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-09-DOM-Manipulation)|                          |
+| [Task 09 DOM Manipulation](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-09-DOM Manipulation)|                          |
 | [Task 10 TODO List App](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-10-TODO-LIST)| Website                |
 
