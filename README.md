@@ -12,4 +12,6 @@
 | [Task 09 DOM Manipulation](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-09-DOM%20Manipulation)|                          |
 | [Task 10 TODO List App](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-10-TODO-LIST)| [Deployed](https://todo-list-app-task-10.netlify.app/)               |
 | [Task 11 ReactJS](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/task-11-react)| [Deployed](https://react-application-task-11.netlify.app/)               |
+| [Task 12 NodeJS](https://github.com/emankamran/Bytewise-Internship-MERN-Backend)|               |
+| [Task 13 Goals App](https://github.com/emankamran/Bytewise-Internship-MERN/tree/main/Task-13-Goals-App)|               |
 
