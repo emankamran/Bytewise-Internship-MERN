@@ -1,0 +1,42 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "14.x",
+    "npm": "*"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "bcrypt": "^4.0.1",
+    "bcryptjs": "^2.4.3",
+    "bull": "^3.12.1",
+    "cloudinary": "^1.37.0",
+    "cron": "^2.3.1",
+    "dotenv": "^8.6.0",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "form-data": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "kue": "^0.11.6",
+    "moment": "^2.29.4",
+    "mongoose": "^5.13.17",
+    "multer": "^1.4.4",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.9.3",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "react-router-dom": "^6.12.0",
+    "redis": "^3.1.2",
+    "sendinblue": "^0.0.1",
+    "sendinblue-api": "^1.0.8",
+    "sib-api-v3-sdk": "^8.5.0",
+    "socket.io": "^2.5.0"
+  }
+}
